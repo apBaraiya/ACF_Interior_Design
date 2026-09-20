@@ -4,6 +4,8 @@ Artima Architecture is a custom-built, responsive architecture and interior desi
 
 The website was developed with a focus on creating a fully customizable, page-specific content management system while maintaining a clean and structured frontend architecture.
 
+<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/d71b8bed-4ab6-4d21-a799-cc832304de66" />
+
 # Project Overview
 
 The website showcases architectural and interior design services, projects, company information, and other business content through a modern and responsive interface.
