@@ -1,4 +1,4 @@
-# Artima Architecture
+# Artima Architecture – ACF-Powered WordPress Website
 
 Artima Architecture is a custom-built, responsive architecture and interior design website developed using WordPress, PHP, HTML, CSS, JavaScript, and Advanced Custom Fields (ACF).
 
