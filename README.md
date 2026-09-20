@@ -70,3 +70,29 @@ Each page has its own set of custom fields based on the content and layout requi
 -> Reusable template logic
 
 -> Admin-friendly content editing
+
+## 💻 Local Setup & Backup Restore
+
+This project includes a complete WordPress backup created using **All-in-One WP Migration**. The backup can be restored locally for development or testing.
+
+### Requirements
+
+* LocalWP / XAMPP / WAMP
+* WordPress
+* All-in-One WP Migration plugin
+* Backup `.wpress` file from this repository
+
+### Installation
+
+1. Install **LocalWP** and create a new WordPress site.
+2. Open the WordPress Admin Dashboard.
+3. Install and activate **All-in-One WP Migration**.
+4. Go to **All-in-One WP Migration → Import**.
+5. Select the `.wpress` backup file from this repository.
+6. Start the import and wait until the restoration is complete.
+7. Confirm the overwrite/restore prompt when asked.
+8. Log in using the credentials included with the original backup.
+9. Go to **Settings → Permalinks** and click **Save Changes**.
+10. Open the local site URL and verify the website.
+
+> **Note:** The backup contains the complete WordPress website, including the database, themes, plugins, media and website content. Make sure the backup file is downloaded completely before importing.
